@@ -10,7 +10,10 @@ The terms used in this Privacy Policy have the same meanings as in our Terms and
 
 Information Collection and Use
 
-For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information. The information that I request will be retained on your device and is not collected by me in any way.
+For a better experience, while using our Service, I may require you to provide us with some information related to device. The information that I request will be retained on your device and is not collected by me in any way.
+
+<p><strong>Log Data</strong></p>
+<p>We want to inform you that whenever you use our Service, in case of an error in the app we may collect data and information (through third party products) on your phone called Log Data. This Log Data may include information such as your devices’s Internet Protocol (“IP”) address, device name, operating system version, configuration of the app when utilising our Service, the time and date of your use of the Service, and other statistics.</p>
 
 The app does use third-party services that may collect information used to identify you.
 
